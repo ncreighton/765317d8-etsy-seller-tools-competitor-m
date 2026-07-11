@@ -1,2 +1,28 @@
-# 765317d8-etsy-seller-tools-competitor-m
-The fastest way to automate a multi-tool business process in an afternoon. No setup fees. No learning curve.  Import the JSON, set your credentials, click activate. Running in minutes. Built for production: error handling, retry logic, and failure notifications included.  ## What's Included  - Etsy Seller Tools Competitor Monitoring And Alert — ful
+# Etsy Seller Tools Competitor Monitoring and Alert N8N Workflow
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic triggers | Yes | Yes |
+| Standard nodes | Yes | Yes |
+| Manual execution | Yes | Yes |
+| Advanced triggers | - | Yes |
+| Custom nodes | - | Yes |
+| Scheduled execution | - | Yes |
+| Error handling | - | Yes |
+| Priority queue | - | Yes |
+| Webhook integrations | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/fZu3cv4eP9Mwf447jCcZJ3M)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZu3cv4eP9Mwf447jCcZJ3M)
+
